@@ -13,6 +13,7 @@ class Directories:
     processed -- data/processed/
     splits -- data/splits/
     """
+
     def __init__(self, root: str):
         """
         Initialize the directories object based on the project root.
