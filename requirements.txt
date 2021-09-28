@@ -6,4 +6,5 @@ pyarrow
 tables
 matplotlib
 tqdm
+scikit-learn
 -e .
